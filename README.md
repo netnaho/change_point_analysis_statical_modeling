@@ -1,1 +1,1 @@
-# Change-point-analysis-and-statistical-modelling-of-time-series-data
+# Change Point Analysis and Statical Modeling of time series data.
